@@ -8,17 +8,17 @@ The income of only 5.000 of the interviewee’s is known. The goal is to predict
 emaining 25.000 interviewees.
 # Dataset features
 - Age
-- Employment type 
-- Weighting factor to compensate for an interview-dependent selection bias
-- Level of education
-- Schooling/training period
-- Marital status 
-- Employment area
-- Partnership (Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried)
-- Ethnicity (White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black)
-- Gender (Female, Male)
-- Gains on ﬁnancial assets
-- Losses on ﬁnancial assets
-- Weekly working time
-- Country of birth 
-- Income (≤ 50k, > 50k)
+- Employment type
+- Weighting factor to compensate for an interview-dependent selection bias
+- Level of education
+- Schooling/training period
+- Marital status
+- Employment area
+- Partnership
+- Ethnicity
+- Gender
+- Gains on ﬁnancial assets
+- Losses on ﬁnancial assets
+- Weekly working time
+- Country of birth
+- Income (≤ 50k, > 50k)
